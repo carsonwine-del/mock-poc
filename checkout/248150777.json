@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "check_out_not_allowed",
+  "message": "This work order has not been accepted yet. The provider must accept it in ServiceChannel Provider before a technician can check in."
+}

@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "confirmation_number": "CO777478",
+  "new_status": "Completed / Pending Confirmation (or Incomplete, per the resolution given)",
+  "reminder": "If completed, upload photos and enter root cause and resolution codes in ServiceChannel Provider. If incomplete, check in again on the return visit.",
+  "message": "Checked out of work order 2 4 8 1 5 0 4 2 2."
+}

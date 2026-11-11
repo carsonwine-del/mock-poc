@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "check_out_not_allowed",
+  "message": "No technician is checked in on this work order, so there is nothing to check out of."
+}

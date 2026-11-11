@@ -1,0 +1,16 @@
+{
+  "found": true,
+  "work_order_number": "248150777",
+  "provider_name": "Hill Country Door and Lock",
+  "location_name": "Harvest Table Kitchen Location 212",
+  "address": "3300 Bee Caves Rd, Austin, TX",
+  "trade": "Doors and Locks",
+  "problem_description": "Rear exit door will not latch",
+  "priority": "P2 - 24 hour response",
+  "not_to_exceed_usd": 400,
+  "status": "Open / Awaiting Acceptance",
+  "last_check_in": null,
+  "technicians_on_site": 0,
+  "next_action": "none",
+  "next_action_reason": "This work order has not been accepted yet. The provider must accept it in ServiceChannel Provider before a technician can check in."
+}

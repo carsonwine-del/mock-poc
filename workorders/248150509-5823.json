@@ -1,0 +1,16 @@
+{
+  "found": true,
+  "work_order_number": "248150509",
+  "provider_name": "Capitol Electric",
+  "location_name": "Brightway Pharmacy Store 1190",
+  "address": "9500 Research Blvd, Austin, TX",
+  "trade": "Electrical",
+  "problem_description": "Exterior pylon sign lights out",
+  "priority": "P3 - 72 hour",
+  "not_to_exceed_usd": 500,
+  "status": "Completed / Pending Confirmation",
+  "last_check_in": "Yesterday at 9:30 AM Central",
+  "technicians_on_site": 0,
+  "next_action": "none",
+  "next_action_reason": "This work order is already completed. No check-in or check-out is needed."
+}

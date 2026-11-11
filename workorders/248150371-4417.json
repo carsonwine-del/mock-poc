@@ -1,0 +1,16 @@
+{
+  "found": true,
+  "work_order_number": "248150371",
+  "provider_name": "Lone Star Mechanical",
+  "location_name": "Brightway Pharmacy Store 1182",
+  "address": "4810 Burnet Rd, Austin, TX",
+  "trade": "HVAC",
+  "problem_description": "Rooftop unit 2 not cooling; sales floor at 81 degrees",
+  "priority": "P2 - 24 hour response",
+  "not_to_exceed_usd": 750,
+  "status": "In Progress / Dispatch Confirmed",
+  "last_check_in": null,
+  "technicians_on_site": 0,
+  "next_action": "check_in",
+  "next_action_reason": "This work order is ready for check-in."
+}

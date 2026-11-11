@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "check_out_not_allowed",
+  "message": "This work order is already completed. No check-in or check-out is needed."
+}
